@@ -13,7 +13,6 @@ refs.btnStart.addEventListener('click', ()=> {
     }, 1000)
     refs.btnStart.setAttribute('disabled', 'true')
     // started = true
-    refs.btnStart.setAttribute('disabled', 'true')
 })
 
 refs.btnStop.addEventListener('click', ()=>{
